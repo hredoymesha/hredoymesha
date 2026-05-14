@@ -4,7 +4,6 @@
 
 ### Data Analyst | IT Analyst | Project Leader | Research Professional
 
-I turn data, digital services, and team performance into clear decisions.
 
 [![Location](https://img.shields.io/badge/Helsinki-Finland-0B5FFF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meshahredoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshahredoy)
