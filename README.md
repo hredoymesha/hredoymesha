@@ -93,9 +93,11 @@ A beginner data analytics project analyzing fundraising KPI performance by area 
 https://github.com/hredoymesha/fundraising-kpi-analysis
 
 
-## GitHub Stats
+### VRGP Remote Guidance Case Study
 
-<div align="center">
+A public portfolio case study based on my university project-management role in a Vessel Remote Guidance Protocol implementation concept.
+
+[View Project]([https://github.com/hredoymesha/vrgp-remote-guidance-case-study](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/#learning))
 
 
 </div>
