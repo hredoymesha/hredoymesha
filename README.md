@@ -90,6 +90,7 @@ I am using GitHub to grow and showcase work around:
 
 A beginner data analytics project analyzing fundraising KPI performance by area using Python and CSV data.
 
+https://github.com/hredoymesha/fundraising-kpi-analysis
 
 
 ## GitHub Stats
