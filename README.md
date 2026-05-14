@@ -97,7 +97,7 @@ https://github.com/hredoymesha/fundraising-kpi-analysis
 
 A public portfolio case study based on my university project-management role in a Vessel Remote Guidance Protocol implementation concept.
 
-[View Project]([https://github.com/hredoymesha/vrgp-remote-guidance-case-study](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/#learning))
+https://hredoymesha.github.io/vrgp-remote-guidance-case-study/
 
 
 </div>
