@@ -91,17 +91,13 @@ I am using GitHub to grow and showcase work around:
 
 A beginner data analytics project analyzing fundraising KPI performance by area using Python and CSV data.
 
-After uploading the project to GitHub, replace this line with your repository link:
 
-`https://github.com/hredoymesha/fundraising-kpi-analysis`
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hredoymesha&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hredoymesha&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
