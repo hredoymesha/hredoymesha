@@ -21,12 +21,12 @@ I enjoy building practical tools that make work easier: KPI dashboards, Excel an
 
 ## What I Bring
 
-- Data analysis, reporting, and insight generation
-- KPI development, performance monitoring, and dashboard thinking
-- Power BI, advanced Excel, SQL, and Python for analytics
-- IT support, troubleshooting, service desk operations, and client communication
-- Research, academic writing, documentation, and presentations
-- Project management, coaching, mentoring, and team leadership
+- Data analysis, reporting, and insight generation.
+- KPI development, performance monitoring, and dashboard thinking.
+- Power BI, advanced Excel, SQL, and Python for analytics.
+- IT support, troubleshooting, service desk operations, and client communication.
+- Research, academic writing, documentation, and presentations.
+- Project management, coaching, mentoring, and team leadership.
 
 ## Toolbelt
 
@@ -47,25 +47,25 @@ I enjoy building practical tools that make work easier: KPI dashboards, Excel an
 
 ### Suomen UNICEF
 
-- Led a 16-member F2F team and supported consistent KPI achievement
-- Built an Excel-based KPI analysis tool
-- Conducted geographical KPI analysis for fundraising planning
-- Designed a mapping system for D2D fundraising productivity
-- Trained team leaders on data analysis and mapping methods
+- Led a 16-member F2F team and supported consistent KPI achievement.
+- Built an Excel-based KPI analysis tool.
+- Conducted geographical KPI analysis for fundraising planning.
+- Designed a mapping system for D2D fundraising productivity.
+- Trained team leaders on data analysis and mapping methods.
 
 ### Åbo Akademi University
 
 - Master's degree in Governance of Digitisation
 - Final grade: 4.51 / 5.0
-- Focus areas: data analytics, digital services design, IT governance, digital information, and human interaction with technology
-- Research assistant experience in Talent Boost projects
-- Student tutor for new international students
+- Focus areas: data analytics, digital services design, IT governance, digital information, and human interaction with technology.
+- Research assistant experience in Talent Boost projects.
+- Student tutor for new international students.
 
 ### HCL Technologies
 
-- IT Analyst experience in service desk operations
-- Handled user queries, ticketing systems, troubleshooting, escalation, and issue ownership
-- Supported IT services with a structured and customer-focused approach
+- IT Analyst experience in service desk operations.
+- Handled user queries, ticketing systems, troubleshooting, escalation, and issue ownership.
+- Supported IT services with a structured and customer-focused approach.
 
 ## Selected Project
 
@@ -77,12 +77,12 @@ Project Manager for a university software implementation project focused on Vess
 
 I am using GitHub to grow and showcase work around:
 
-- Data analytics projects
-- Excel and Power BI reporting examples
-- Python data cleaning and visualization notebooks
-- SQL practice and portfolio queries
-- Digital services and IT governance research notes
-- Small web projects with HTML, CSS, and JavaScript
+- Data analytics projects.
+- Excel and Power BI reporting examples.
+- Python data cleaning and visualization notebooks.
+- SQL practice and portfolio queries.
+- Digital services and IT governance research notes.
+- Small web projects with HTML, CSS, and JavaScript.
 
 ## Featured Portfolio Projects
 
@@ -95,7 +95,6 @@ A beginner data analytics project analyzing fundraising KPI performance by area 
 ## GitHub Stats
 
 <div align="center">
-
 
 
 </div>
