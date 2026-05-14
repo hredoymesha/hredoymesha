@@ -90,14 +90,13 @@ I am using GitHub to grow and showcase work around:
 
 A beginner data analytics project analyzing fundraising KPI performance by area using Python and CSV data.
 
-https://github.com/hredoymesha/fundraising-kpi-analysis
-
+[View Project](https://github.com/hredoymesha/fundraising-kpi-analysis)
 
 ### VRGP Remote Guidance Case Study
 
 A public portfolio case study based on my university project-management role in a Vessel Remote Guidance Protocol implementation concept.
 
-https://hredoymesha.github.io/vrgp-remote-guidance-case-study/
+[View Project](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/)
 
 
 </div>
