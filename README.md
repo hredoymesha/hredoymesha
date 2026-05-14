@@ -97,8 +97,6 @@ After uploading the project to GitHub, replace this line with your repository li
 
 ## GitHub Stats
 
-Replace `hredoymesha` with your GitHub username after copying this file into your profile repository.
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hredoymesha&show_icons=true&theme=tokyonight&hide_border=true)
@@ -106,6 +104,7 @@ Replace `hredoymesha` with your GitHub username after copying this file into you
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hredoymesha&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ## Let's Connect
 
