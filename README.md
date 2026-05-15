@@ -98,6 +98,11 @@ A public portfolio case study based on my university project-management role in 
 
 [View Project](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/)
 
+### Airbnb Market Insights Analysis
+
+A beginner-friendly business analytics project analyzing Airbnb listing prices, availability, room types, and neighborhood trends using Python and CSV data.
+
+[View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
 
 
 ## Let's Connect
