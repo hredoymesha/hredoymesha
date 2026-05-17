@@ -104,6 +104,11 @@ A beginner-friendly business analytics project analyzing Airbnb listing prices, 
 
 [View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
 
+### Advanced Excel Retail Operations Dashboard
+
+An advanced Excel business analytics project analyzing retail sales performance, profitability, inventory risk, ABC product contribution, and demand forecasting using synthetic data. 
+
+[View Project](https://github.com/hredoymesha/excel-retail-operations-dashboard)
 
 ## Let's Connect
 
