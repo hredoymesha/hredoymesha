@@ -86,37 +86,31 @@ I am using GitHub to grow and showcase work around:
 
 ## Featured Portfolio Projects
 
-### Fundraising KPI Analysis
+### Advanced Excel Retail Operations Dashboard
+Advanced Excel business analytics project analyzing retail sales performance, profitability, inventory risk, ABC product contribution, and demand forecasting using synthetic data.
 
-A beginner data analytics project analyzing fundraising KPI performance by area using Python and CSV data.
+[View Project](https://github.com/hredoymesha/excel-retail-operations-dashboard)
+
+### Airbnb Market Insights Analysis
+Business analytics portfolio project analyzing Airbnb listing prices, availability, room types, and neighborhood trends using Python and CSV data.
+
+[View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
+
+### Fundraising KPI Analysis
+KPI analysis and reporting project analyzing fundraising performance by area using Python and CSV data.
 
 [View Project](https://github.com/hredoymesha/fundraising-kpi-analysis)
 
 ### VRGP Remote Guidance Case Study
-
-A public portfolio case study based on my university project-management role in a Vessel Remote Guidance Protocol implementation concept.
+Public portfolio case study based on a university project-management role in a Vessel Remote Guidance Protocol implementation concept.
 
 [View Project](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/)
-
-### Airbnb Market Insights Analysis
-
-A beginner-friendly business analytics project analyzing Airbnb listing prices, availability, room types, and neighborhood trends using Python and CSV data.
-
-[View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
-
-### Advanced Excel Retail Operations Dashboard
-
-An advanced Excel business analytics project analyzing retail sales performance, profitability, inventory risk, ABC product contribution, and demand forecasting using synthetic data. 
-
-[View Project](https://github.com/hredoymesha/excel-retail-operations-dashboard)
 
 ## Let's Connect
 
 - LinkedIn: [linkedin.com/in/meshahredoy](https://www.linkedin.com/in/meshahredoy)
 - Email: [md.hredoy.mesha@gmail.com](mailto:md.hredoy.mesha@gmail.com)
 - Languages: Bengali, English, Finnish beginner
-
----
 
 <div align="center">
 
