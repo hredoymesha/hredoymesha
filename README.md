@@ -88,6 +88,7 @@ I am using GitHub to grow and showcase work around:
 
 ### DevForge
 DevForge — a privacy-first Chrome extension for inspecting, editing, auditing, recreating, and exporting web interfaces.
+
 [View Project](https://github.com/hredoymesha/devforge)
 
 ### Advanced Excel Retail Operations Dashboard
