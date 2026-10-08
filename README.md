@@ -1,125 +1,48 @@
 <div align="center">
 
-# Hi, I'm MD Hredoy Mesha
-
-### Data Analyst | IT Analyst | Project Leader | Research Professional
-
-
 [![Location](https://img.shields.io/badge/Helsinki-Finland-0B5FFF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meshahredoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshahredoy)
 [![Email](https://img.shields.io/badge/Email-md.hredoy.mesha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.hredoy.mesha@gmail.com)
 
 </div>
 
+Data & IT Analyst – Helsinki, Finland  
+MSc Governance of Digitalisation (Åbo Akademi University)
+
+Focus: KPI dashboards, Excel/Python analysis, digital service improvement, web development, and data-driven project delivery.
+
+Background includes IT support and technical problem-solving, campaign performance analysis, and research on digital services and data use.
+
+Pinned repositories showcase selected work in data analytics, dashboards, automation scripts, and small web tools.
+
 ---
 
-## About Me
-
-I am a results-driven data and IT professional with a Master's degree in Governance of Digitisation from Åbo Akademi University. My background combines data analytics, IT support, KPI reporting, digital services design, project management, and multicultural team leadership.
-
-I enjoy building practical tools that make work easier: KPI dashboards, Excel analysis systems, location-based planning methods, reporting workflows, and clear presentations that help teams act with confidence.
-
-## What I Bring
-
-- Data analysis, reporting, and insight generation.
-- KPI development, performance monitoring, and dashboard thinking.
-- Power BI, advanced Excel, SQL, and Python for analytics.
-- IT support, troubleshooting, service desk operations, and client communication.
-- Research, academic writing, documentation, and presentations.
-- Project management, coaching, mentoring, and team leadership.
-
-## Toolbelt
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Data%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Productivity-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Web%20Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Web%20Basics-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-## Profile Highlights
-
-### Suomen UNICEF
-
-- Led a 16-member F2F team and supported consistent KPI achievement.
-- Built an Excel-based KPI analysis tool.
-- Conducted geographical KPI analysis for fundraising planning.
-- Designed a mapping system for D2D fundraising productivity.
-- Trained team leaders on data analysis and mapping methods.
-
-### Åbo Akademi University
-
-- Master's degree in Governance of Digitisation
-- Final grade: 4.51 / 5.0
-- Focus areas: data analytics, digital services design, IT governance, digital information, and human interaction with technology.
-- Research assistant experience in Talent Boost projects.
-- Student tutor for new international students.
-
-### HCL Technologies
-
-- IT Analyst experience in service desk operations.
-- Handled user queries, ticketing systems, troubleshooting, escalation, and issue ownership.
-- Supported IT services with a structured and customer-focused approach.
-
-## Selected Project
-
-### VRGP Implementation on the Aboat
-
-Project Manager for a university software implementation project focused on Vessel Remote Guidance. Led planning, documentation, stakeholder communication, and final presentation for a digital guidance solution supporting safer ship docking.
-
-## GitHub Focus
-
-I am using GitHub to grow and showcase work around:
-
-- Data analytics projects.
-- Excel and Power BI reporting examples.
-- Python data cleaning and visualization notebooks.
-- SQL practice and portfolio queries.
-- Digital services and IT governance research notes.
-- Small web projects with HTML, CSS, and JavaScript.
-
-## Featured Portfolio Projects
+## Selected Projects
 
 ### DevForge
-DevForge — a privacy-first Chrome extension for inspecting, editing, auditing, recreating, and exporting web interfaces.
-
+Privacy-first Chrome extension for inspecting, editing, auditing, and exporting web interfaces.  
 [View Project](https://github.com/hredoymesha/devforge)
 
 ### Advanced Excel Retail Operations Dashboard
-Advanced Excel business analytics project analyzing retail sales performance, profitability, inventory risk, ABC product contribution, and demand forecasting using synthetic data.
-
+Excel dashboard for retail sales, profitability, inventory risk (ABC), and demand forecasting using synthetic 2025 data.  
 [View Project](https://github.com/hredoymesha/excel-retail-operations-dashboard)
 
 ### Airbnb Market Insights Analysis
-Business analytics portfolio project analyzing Airbnb listing prices, availability, room types, and neighborhood trends using Python and CSV data.
-
+Python-based analysis of Airbnb listing prices, availability, room types, and neighborhood trends.  
 [View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
 
 ### Fundraising KPI Analysis
-KPI analysis and reporting project analyzing fundraising performance by area using Python and CSV data.
-
+KPI analysis and reporting for fundraising performance by area using Python and CSV data.  
 [View Project](https://github.com/hredoymesha/fundraising-kpi-analysis)
 
 ### VRGP Remote Guidance Case Study
-Public portfolio case study based on a university project-management role in a Vessel Remote Guidance Protocol implementation concept.
-
+Project management case study for a Vessel Remote Guidance Protocol implementation concept.  
 [View Project](https://hredoymesha.github.io/vrgp-remote-guidance-case-study/)
+
+---
 
 ## Let's Connect
 
 - LinkedIn: [linkedin.com/in/meshahredoy](https://www.linkedin.com/in/meshahredoy)
 - Email: [md.hredoy.mesha@gmail.com](mailto:md.hredoy.mesha@gmail.com)
 - Languages: Bengali, English, Finnish beginner
-
-<div align="center">
-
-### Open to data analytics, IT analysis, project coordination, and research-focused opportunities.
-
-</div>
-
