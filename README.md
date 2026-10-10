@@ -23,6 +23,10 @@ Pinned repositories showcase selected work in data analytics, dashboards, automa
 Privacy-first Chrome extension for inspecting, editing, auditing, and exporting web interfaces.  
 [View Project](https://github.com/hredoymesha/devforge)
 
+### Fundraising KPI Analysis
+KPI analysis and reporting for fundraising performance by area using Python and CSV data.  
+[View Project](https://github.com/hredoymesha/fundraising-kpi-analysis)
+
 ### Advanced Excel Retail Operations Dashboard
 Excel dashboard for retail sales, profitability, inventory risk (ABC), and demand forecasting using synthetic 2025 data.  
 [View Project](https://github.com/hredoymesha/excel-retail-operations-dashboard)
@@ -30,10 +34,6 @@ Excel dashboard for retail sales, profitability, inventory risk (ABC), and deman
 ### Airbnb Market Insights Analysis
 Python-based analysis of Airbnb listing prices, availability, room types, and neighborhood trends.  
 [View Project](https://github.com/hredoymesha/airbnb-market-insights-analysis)
-
-### Fundraising KPI Analysis
-KPI analysis and reporting for fundraising performance by area using Python and CSV data.  
-[View Project](https://github.com/hredoymesha/fundraising-kpi-analysis)
 
 ### VRGP Remote Guidance Case Study
 Project management case study for a Vessel Remote Guidance Protocol implementation concept.  
