@@ -10,7 +10,7 @@
 
 ## About
 
-I'm a Data & IT Analyst based in Helsinki, Finland, with an MSc in Governance of Digitalisation from Åbo Akademi University. I turn raw data into clear KPI reporting and use it to improve digital services.
+I'm a Data & IT Analyst based in Helsinki - Finland, with an MSc in Governance of Digitalisation from Åbo Akademi University. I turn raw data into clear KPI reporting and use it to improve digital services.
 
 <table width="100%">
   <tr>
@@ -48,19 +48,25 @@ I'm a Data & IT Analyst based in Helsinki, Finland, with an MSc in Governance of
   <a href="https://github.com/hredoymesha?tab=repositories"><img src="card-more.svg" alt="More on GitHub – View Repositories" width="49%" /></a>
 </p>
 
+<div align="center">
+
 ## Let's Connect
 
 <table width="100%">
   <tr>
     <td width="170" valign="top"><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/meshahredoy">linkedin.com/in/meshahredoy</a></td>
+    <td>linkedin.com/in/meshahredoy</td>
+    <td><a href="https://linkedin.com">Visit Profile</a></td>
   </tr>
   <tr>
     <td width="170" valign="top"><b>Email</b></td>
-    <td><a href="mailto:md.hredoy.mesha@gmail.com">md.hredoy.mesha@gmail.com</a></td>
+    <td>md.hredoy.mesha@gmail.com</td>
+    <td><a href="mailto:md.hredoy.mesha@gmail.com">Send Email</a></td>
   </tr>
   <tr>
     <td width="170" valign="top"><b>Languages</b></td>
-    <td>Bengali, English, Finnish (beginner)</td>
+    <td colspan="2">Bengali ✦ English ✦ Finnish [Beginner]</td>
   </tr>
 </table>
+
+</div>
