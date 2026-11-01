@@ -56,7 +56,7 @@ I'm a Data & IT Analyst based in Helsinki - Finland, with an MSc in Governance o
   <tr>
     <td width="170" valign="top"><b>LinkedIn</b></td>
     <td>linkedin.com/in/meshahredoy</td>
-    <td><a href="https://linkedin.com">Visit Profile</a></td>
+    <td><a href="https://linkedin.com/in/meshahredoy">Visit Profile</a></td>
   </tr>
   <tr>
     <td width="170" valign="top"><b>Email</b></td>
